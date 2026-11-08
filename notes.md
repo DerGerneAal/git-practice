@@ -11,3 +11,4 @@ A scratch project for learning Git with OpenCode.
 ## Log
 
 - Day 1: created this repo with `git init`
+- Day 1: made my first commit, then changed this line to watch git diff
